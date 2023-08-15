@@ -1,4 +1,4 @@
-module svb
+module github.com/koeng101/svb
 
 go 1.14
 
